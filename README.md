@@ -1,7 +1,7 @@
 <h1 align="center">⭐Welcome! I'm Paul</h1>
 <h3 align="center">A curious programmer that dabbles in various projects</h3>
 
-- 🔭 I’m currently working on [Net Profiler](https://github.com/paul-s-cameron/net_profiler)
+- 🔭 I’m currently working on custom firmware for ROVs
 
 - 🌱 I’m currently learning **Rust**
 
